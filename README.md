@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mateus Toledo.
 
-- :man: I'm a self taught Web Developer
+- :man: I'm a self-taught Web Developer
 - :house_with_garden: I live in Brazil :brazil:
 - 🔭 I’m currently working on [awesome personal projects](https://github.com/mateusmtoledo/fancybook)
 - 🌱 I’m currently learning Angular, Tailwind, DSA
